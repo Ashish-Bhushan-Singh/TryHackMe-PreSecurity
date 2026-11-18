@@ -1,6 +1,6 @@
 
 
-# 🛡️ Cyber Security 101 – TryHackMe Learning Path
+# 🛡️ TryHackMe-PreSecurity – TryHackMe Learning Path
 
 This repository contains my notes and practical work while learning cybersecurity through the **TryHackMe-PreSecurity**.
 
